@@ -15,7 +15,10 @@ knowledge-base/
     ├── streams.md
     ├── watchmarker-service.md
     ├── watchmarker-go-worker.md
-    └── manifest-service.md
+    ├── manifest-service.md
+    ├── atlas.md
+    ├── watchlist.md
+    └── device-db.md
 ```
 
 ## How it works
